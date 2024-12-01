@@ -1,0 +1,1117 @@
+product_name,size,milk,serv_size_m_l,calories,total_carbs_g,sugar_g,caffeine_mg,sugar_per_100ml
+brewed coffee - dark roast,short,none,236,3,0,0,130,0.0
+brewed coffee - dark roast,tall,none,354,4,0,0,193,0.0
+brewed coffee - dark roast,grande,none,473,5,0,0,260,0.0
+brewed coffee - dark roast,venti,none,591,5,0,0,340,0.0
+brewed coffee - decaf pike place roast,short,none,236,3,0,0,15,0.0
+brewed coffee - decaf pike place roast,tall,none,354,4,0,0,20,0.0
+brewed coffee - decaf pike place roast,grande,none,473,5,0,0,25,0.0
+brewed coffee - decaf pike place roast,venti,none,591,5,0,0,30,0.0
+brewed coffee - medium roast,short,none,236,3,0,0,155,0.0
+brewed coffee - medium roast,tall,none,354,4,0,0,235,0.0
+brewed coffee - medium roast,grande,none,473,5,0,0,310,0.0
+brewed coffee - medium roast,venti,none,591,5,0,0,410,0.0
+brewed coffee - True North Blend Blonde roast,short,none,236,3,0,0,180,0.0
+brewed coffee - True North Blend Blonde roast,tall,none,354,4,0,0,270,0.0
+brewed coffee - True North Blend Blonde roast,grande,none,473,5,0,0,360,0.0
+brewed coffee - True North Blend Blonde roast,venti,none,591,5,0,0,475,0.0
+Caffè Misto,short,nonfat,236,35,5,5,75,2.12
+Caffè Misto,short,2% milk,236,50,5,5,75,2.12
+Caffè Misto,short,whole,236,70,5,5,75,2.12
+Caffè Misto,short,soy,236,40,3,2,75,0.85
+Caffè Misto,short,coconut,236,40,4,3,75,1.27
+Caffè Misto,tall,nonfat,354,60,8,8,115,2.26
+Caffè Misto,tall,2% milk,354,80,8,8,115,2.26
+Caffè Misto,tall,whole,354,100,8,8,115,2.26
+Caffè Misto,tall,soy,354,60,5,4,115,1.13
+Caffè Misto,tall,coconut,354,60,6,5,115,1.41
+Caffè Misto,grande,nonfat,473,70,10,10,150,2.11
+Caffè Misto,grande,2% milk,473,110,10,10,150,2.11
+Caffè Misto,grande,whole,473,130,10,10,150,2.11
+Caffè Misto,grande,soy,473,80,6,5,150,1.06
+Caffè Misto,grande,coconut,473,70,7,7,150,1.48
+Caffè Misto,venti,nonfat,591,90,13,13,195,2.2
+Caffè Misto,venti,2% milk,591,130,13,13,195,2.2
+Caffè Misto,venti,whole,591,160,13,13,195,2.2
+Caffè Misto,venti,soy,591,100,8,6,195,1.02
+Caffè Misto,venti,coconut,591,80,7,7,195,1.18
+Clover Brewed Coffee - Dark Roast,short,none,236,10,0,0,190,0.0
+Clover Brewed Coffee - Dark Roast,tall,none,354,10,0,0,280,0.0
+Clover Brewed Coffee - Dark Roast,grande,none,473,10,0,0,380,0.0
+Clover Brewed Coffee - Dark Roast,venti,none,591,10,0,0,470,0.0
+Clover Brewed Coffee -  Light Roast,short,none,236,10,0,0,155,0.0
+Clover Brewed Coffee -  Light Roast,tall,none,354,10,0,0,255,0.0
+Clover Brewed Coffee -  Light Roast,grande,none,473,10,0,0,340,0.0
+Clover Brewed Coffee -  Light Roast,venti,none,591,10,0,0,425,0.0
+Clover Brewed Coffee - Medium Roast,short,none,236,10,0,0,170,0.0
+Clover Brewed Coffee - Medium Roast,tall,none,354,10,0,0,280,0.0
+Clover Brewed Coffee - Medium Roast,grande,none,473,10,0,0,375,0.0
+Clover Brewed Coffee - Medium Roast,venti,none,591,10,0,0,445,0.0
+Iced Coffee,tall,none,354,60,15,15,120,4.24
+Iced Coffee,grande,none,473,80,20,20,165,4.23
+Iced Coffee,venti,none,709,120,30,30,235,4.23
+Iced Coffee,trenta,none,887,160,40,39,280,4.4
+Iced Coffee with milk,tall,nonfat,354,80,17,17,90,4.8
+Iced Coffee with milk,tall,2% milk,354,80,17,17,90,4.8
+Iced Coffee with milk,tall,whole,354,90,17,17,90,4.8
+Iced Coffee with milk,tall,soy,354,80,16,16,90,4.52
+Iced Coffee with milk,tall,coconut,354,80,17,16,110,4.52
+Iced Coffee with milk,grande,nonfat,473,100,23,23,125,4.86
+Iced Coffee with milk,grande,2% milk,473,110,23,23,125,4.86
+Iced Coffee with milk,grande,whole,473,120,23,23,125,4.86
+Iced Coffee with milk,grande,soy,473,110,22,21,125,4.44
+Iced Coffee with milk,grande,coconut,473,100,22,22,150,4.65
+Iced Coffee with milk,venti,nonfat,709,160,35,35,170,4.94
+Iced Coffee with milk,venti,2% milk,709,170,35,35,170,4.94
+Iced Coffee with milk,venti,whole,709,190,35,35,170,4.94
+Iced Coffee with milk,venti,soy,709,160,33,32,170,4.51
+Iced Coffee with milk,venti,coconut,709,160,33,33,205,4.65
+Iced Coffee with milk,trenta,nonfat,887,210,46,46,190,5.19
+Iced Coffee with milk,trenta,2% milk,887,230,46,46,190,5.19
+Iced Coffee with milk,trenta,whole,887,240,46,46,190,5.19
+Iced Coffee with milk,trenta,soy,887,220,44,43,190,4.85
+Iced Coffee with milk,trenta,coconut,887,210,44,44,190,4.96
+Cold Brewed Coffee,tall,none,354,2,0,0,150,0.0
+Cold Brewed Coffee,grande,none,473,3,0,0,200,0.0
+Cold Brewed Coffee,venti,none,709,4,0,0,300,0.0
+Cold Brewed Coffee,trenta,none,887,5,0,0,330,0.0
+Vanilla Sweet Cream Cold Brew,tall,none,354,100,12,12,140,3.39
+Vanilla Sweet Cream Cold Brew,grande,none,473,110,14,14,185,2.96
+Vanilla Sweet Cream Cold Brew,venti,none,709,200,24,24,275,3.39
+Vanilla Sweet Cream Cold Brew,trenta,none,887,210,26,26,320,2.93
+Espresso - Caffè Americano,short,none,236,5,1,0,75,0.0
+Espresso - Caffè Americano,tall,none,354,10,1,0,150,0.0
+Espresso - Caffè Americano,grande,none,473,15,1,0,225,0.0
+Espresso - Caffè Americano,venti,none,591,25,1,0,300,0.0
+Espresso - Iced Caffè Americano,tall,none,354,10,2,0,150,0.0
+Espresso - Iced Caffè Americano,grande,none,473,15,3,0,225,0.0
+Espresso - Iced Caffè Americano,venti,none,709,25,3,0,300,0.0
+Caffè Latte,tall,nonfat,354,100,15,14,75,3.95
+Caffè Latte,tall,2% milk,354,150,15,14,75,3.95
+Caffè Latte,tall,whole,354,180,15,14,75,3.95
+Caffè Latte,tall,soy,354,110,10,6,75,1.69
+Caffè Latte,tall,coconut,354,110,11,10,75,2.82
+Caffè Latte,grande,nonfat,473,130,19,18,150,3.81
+Caffè Latte,grande,2% milk,473,190,19,17,150,3.59
+Caffè Latte,grande,whole,473,230,19,17,150,3.59
+Caffè Latte,grande,soy,473,150,13,8,150,1.69
+Caffè Latte,grande,coconut,473,140,14,12,150,2.54
+Caffè Latte,venti,nonfat,591,170,25,23,150,3.89
+Caffè Latte,venti,2% milk,591,240,24,22,150,3.72
+Caffè Latte,venti,whole,591,290,24,22,150,3.72
+Caffè Latte,venti,soy,591,190,16,11,150,1.86
+Caffè Latte,venti,coconut,591,170,18,16,150,2.71
+Iced Caffè Latte,tall,nonfat,354,70,10,9,75,2.54
+Iced Caffè Latte,tall,2% milk,354,100,10,9,75,2.54
+Iced Caffè Latte,tall,whole,354,120,10,9,75,2.54
+Iced Caffè Latte,tall,soy,354,80,7,4,75,1.13
+Iced Caffè Latte,tall,coconut,354,70,7,6,75,1.69
+Iced Caffè Latte,grande,nonfat,473,90,13,11,150,2.33
+Iced Caffè Latte,grande,2% milk,473,130,13,11,150,2.33
+Iced Caffè Latte,grande,whole,473,150,13,11,150,2.33
+Iced Caffè Latte,grande,soy,473,100,9,5,150,1.06
+Iced Caffè Latte,grande,coconut,473,90,10,8,150,1.69
+Iced Caffè Latte,venti,nonfat,709,130,19,16,225,2.26
+Iced Caffè Latte,venti,2% milk,709,180,18,15,225,2.12
+Iced Caffè Latte,venti,whole,709,210,18,15,225,2.12
+Iced Caffè Latte,venti,soy,709,150,13,8,225,1.13
+Iced Caffè Latte,venti,coconut,709,130,14,11,225,1.55
+Caffè Mocha,short,nonfat,236,120,21,17,90,7.2
+Caffè Mocha,short,nonfat,236,180,23,18,90,7.63
+Caffè Mocha,short,2% milk,236,150,21,17,90,7.2
+Caffè Mocha,short,2% milk,236,200,22,18,90,7.63
+Caffè Mocha,short,whole,236,160,21,17,90,7.2
+Caffè Mocha,short,whole,236,210,22,18,90,7.63
+Caffè Mocha,short,soy,236,130,18,13,90,5.51
+Caffè Mocha,short,soy,236,180,20,14,90,5.93
+Caffè Mocha,short,coconut,236,130,19,15,90,6.36
+Caffè Mocha,short,coconut,236,180,21,16,90,6.78
+Caffè Mocha,tall,nonfat,354,190,32,27,95,7.63
+Caffè Mocha,tall,nonfat,354,250,34,28,95,7.91
+Caffè Mocha,tall,2% milk,354,230,32,26,95,7.34
+Caffè Mocha,tall,2% milk,354,290,34,28,95,7.91
+Caffè Mocha,tall,whole,354,250,32,26,95,7.34
+Caffè Mocha,tall,whole,354,310,34,28,95,7.91
+Caffè Mocha,tall,soy,354,200,28,20,95,5.65
+Caffè Mocha,tall,soy,354,260,30,22,95,6.21
+Caffè Mocha,tall,coconut,354,190,29,23,95,6.5
+Caffè Mocha,tall,coconut,354,250,30,25,95,7.06
+Caffè Mocha,grande,nonfat,473,250,42,34,175,7.19
+Caffè Mocha,grande,nonfat,473,320,44,36,175,7.61
+Caffè Mocha,grande,2% milk,473,290,42,34,175,7.19
+Caffè Mocha,grande,2% milk,473,360,44,35,175,7.4
+Caffè Mocha,grande,whole,473,330,42,34,175,7.19
+Caffè Mocha,grande,whole,473,400,44,35,175,7.4
+Caffè Mocha,grande,soy,473,260,37,26,175,5.5
+Caffè Mocha,grande,soy,473,330,39,28,175,5.92
+Caffè Mocha,grande,coconut,473,250,38,30,175,6.34
+Caffè Mocha,grande,coconut,473,320,40,32,175,6.77
+Caffè Mocha,venti,nonfat,591,310,54,44,185,7.45
+Caffè Mocha,venti,nonfat,591,390,56,45,185,7.61
+Caffè Mocha,venti,2% milk,591,380,53,43,185,7.28
+Caffè Mocha,venti,2% milk,591,450,55,45,185,7.61
+Caffè Mocha,venti,whole,591,420,53,43,185,7.28
+Caffè Mocha,venti,whole,591,490,55,45,185,7.61
+Caffè Mocha,venti,soy,591,330,46,34,185,5.75
+Caffè Mocha,venti,soy,591,400,48,35,185,5.92
+Caffè Mocha,venti,coconut,591,320,48,38,185,6.43
+Caffè Mocha,venti,coconut,591,390,50,40,185,6.77
+Iced Caffè Mocha,tall,nonfat,354,150,27,22,95,6.21
+Iced Caffè Mocha,tall,nonfat,354,240,30,23,95,6.5
+Iced Caffè Mocha,tall,2% milk,354,180,27,21,95,5.93
+Iced Caffè Mocha,tall,2% milk,354,260,29,23,95,6.5
+Iced Caffè Mocha,tall,whole,354,190,27,21,95,5.93
+Iced Caffè Mocha,tall,whole,354,270,29,23,95,6.5
+Iced Caffè Mocha,tall,soy,354,160,25,18,95,5.08
+Iced Caffè Mocha,tall,soy,354,240,27,20,95,5.65
+Iced Caffè Mocha,tall,coconut,354,150,25,19,95,5.37
+Iced Caffè Mocha,tall,coconut,354,240,27,22,95,6.21
+Iced Caffè Mocha,grande,nonfat,473,200,36,28,175,5.92
+Iced Caffè Mocha,grande,nonfat,473,320,40,30,175,6.34
+Iced Caffè Mocha,grande,2% milk,473,230,36,28,175,5.92
+Iced Caffè Mocha,grande,2% milk,473,350,39,30,175,6.34
+Iced Caffè Mocha,grande,whole,473,250,36,28,175,5.92
+Iced Caffè Mocha,grande,whole,473,360,39,30,175,6.34
+Iced Caffè Mocha,grande,soy,473,210,33,24,175,5.07
+Iced Caffè Mocha,grande,soy,473,330,37,26,175,5.5
+Iced Caffè Mocha,grande,coconut,473,210,34,26,175,5.5
+Iced Caffè Mocha,grande,coconut,473,320,37,29,175,6.13
+Iced Caffè Mocha,venti,nonfat,709,300,53,41,265,5.78
+Iced Caffè Mocha,venti,nonfat,709,410,57,43,265,6.06
+Iced Caffè Mocha,venti,2% milk,709,340,53,41,265,5.78
+Iced Caffè Mocha,venti,2% milk,709,450,56,43,265,6.06
+Iced Caffè Mocha,venti,whole,709,360,53,41,265,5.78
+Iced Caffè Mocha,venti,whole,709,470,56,43,265,6.06
+Iced Caffè Mocha,venti,soy,709,310,49,35,265,4.94
+Iced Caffè Mocha,venti,soy,709,430,53,37,265,5.22
+Iced Caffè Mocha,venti,coconut,709,300,50,38,265,5.36
+Iced Caffè Mocha,venti,coconut,709,420,53,41,265,5.78
+Cappuccino,short,nonfat,236,50,8,7,75,2.97
+Cappuccino,short,2% milk,236,80,8,7,75,2.97
+Cappuccino,short,whole,236,90,8,7,75,2.97
+Cappuccino,short,soy,236,50,4,3,75,1.27
+Cappuccino,short,coconut,236,70,7,6,75,2.54
+Cappuccino,tall,nonfat,354,60,9,8,75,2.26
+Cappuccino,tall,2% milk,354,90,9,8,75,2.26
+Cappuccino,tall,whole,354,110,9,8,75,2.26
+Cappuccino,tall,soy,354,70,7,4,75,1.13
+Cappuccino,tall,coconut,354,100,11,9,75,2.54
+Cappuccino,grande,nonfat,473,80,12,10,150,2.11
+Cappuccino,grande,2% milk,473,120,12,10,150,2.11
+Cappuccino,grande,whole,473,140,12,10,150,2.11
+Cappuccino,grande,soy,473,100,9,5,150,1.06
+Cappuccino,grande,coconut,473,130,14,12,150,2.54
+Cappuccino,venti,nonfat,591,110,16,14,150,2.37
+Cappuccino,venti,2% milk,591,150,16,14,150,2.37
+Cappuccino,venti,whole,591,190,16,14,150,2.37
+Cappuccino,venti,soy,591,120,11,7,150,1.18
+Cappuccino,venti,coconut,591,170,18,15,150,2.54
+Caramel Macchiato,short,nonfat,236,100,16,15,75,6.36
+Caramel Macchiato,short,2% milk,236,120,16,15,75,6.36
+Caramel Macchiato,short,whole,236,140,16,15,75,6.36
+Caramel Macchiato,short,soy,236,100,14,11,75,4.66
+Caramel Macchiato,short,coconut,236,100,14,13,75,5.51
+Caramel Macchiato,tall,nonfat,354,150,27,25,75,7.06
+Caramel Macchiato,tall,2% milk,354,190,26,25,75,7.06
+Caramel Macchiato,tall,whole,354,210,26,25,75,7.06
+Caramel Macchiato,tall,soy,354,160,22,19,75,5.37
+Caramel Macchiato,tall,coconut,354,150,23,21,75,5.93
+Caramel Macchiato,grande,nonfat,473,200,36,34,150,7.19
+Caramel Macchiato,grande,2% milk,473,250,35,33,150,6.98
+Caramel Macchiato,grande,whole,473,280,35,33,150,6.98
+Caramel Macchiato,grande,soy,473,210,30,26,150,5.5
+Caramel Macchiato,grande,coconut,473,200,32,29,150,6.13
+Caramel Macchiato,venti,nonfat,591,250,45,42,150,7.11
+Caramel Macchiato,venti,2% milk,591,310,44,42,150,7.11
+Caramel Macchiato,venti,whole,591,350,44,42,150,7.11
+Caramel Macchiato,venti,soy,591,260,38,33,150,5.58
+Caramel Macchiato,venti,coconut,591,250,39,36,150,6.09
+Iced Caramel Macchiato,tall,nonfat,354,140,26,24,75,6.78
+Iced Caramel Macchiato,tall,2% milk,354,180,26,24,75,6.78
+Iced Caramel Macchiato,tall,whole,354,200,26,24,75,6.78
+Iced Caramel Macchiato,tall,soy,354,160,22,19,75,5.37
+Iced Caramel Macchiato,tall,coconut,354,140,23,21,75,5.93
+Iced Caramel Macchiato,grande,nonfat,473,210,37,35,150,7.4
+Iced Caramel Macchiato,grande,2% milk,473,250,37,34,150,7.19
+Iced Caramel Macchiato,grande,whole,473,280,37,34,150,7.19
+Iced Caramel Macchiato,grande,soy,473,220,32,28,150,5.92
+Iced Caramel Macchiato,grande,coconut,473,210,33,30,150,6.34
+Iced Caramel Macchiato,venti,nonfat,591,290,53,50,225,8.46
+Iced Caramel Macchiato,venti,2% milk,591,350,53,49,225,8.29
+Iced Caramel Macchiato,venti,whole,591,390,53,49,225,8.29
+Iced Caramel Macchiato,venti,soy,591,310,47,40,225,6.77
+Iced Caramel Macchiato,venti,coconut,591,290,47,43,225,7.28
+Cinnamon Dolce Latte,short,nonfat,236,100,20,19,75,8.05
+Cinnamon Dolce Latte,short,nonfat,236,160,22,21,75,8.9
+Cinnamon Dolce Latte,short,2% milk,236,130,20,19,75,8.05
+Cinnamon Dolce Latte,short,2% milk,236,180,22,20,75,8.47
+Cinnamon Dolce Latte,short,whole,236,150,20,19,75,8.05
+Cinnamon Dolce Latte,short,whole,236,200,22,20,75,8.47
+Cinnamon Dolce Latte,short,soy,236,110,17,15,75,6.36
+Cinnamon Dolce Latte,short,soy,236,170,19,16,75,6.78
+Cinnamon Dolce Latte,short,coconut,236,110,18,17,75,7.2
+Cinnamon Dolce Latte,short,coconut,236,160,20,19,75,8.05
+Cinnamon Dolce Latte,tall,nonfat,354,160,31,30,75,8.47
+Cinnamon Dolce Latte,tall,nonfat,354,220,33,31,75,8.76
+Cinnamon Dolce Latte,tall,2% milk,354,200,30,29,75,8.19
+Cinnamon Dolce Latte,tall,2% milk,354,270,32,31,75,8.76
+Cinnamon Dolce Latte,tall,whole,354,230,30,29,75,8.19
+Cinnamon Dolce Latte,tall,whole,354,290,32,31,75,8.76
+Cinnamon Dolce Latte,tall,soy,354,170,26,23,75,6.5
+Cinnamon Dolce Latte,tall,soy,354,240,28,25,75,7.06
+Cinnamon Dolce Latte,tall,coconut,354,160,27,26,75,7.34
+Cinnamon Dolce Latte,tall,coconut,354,230,29,28,75,7.91
+Cinnamon Dolce Latte,grande,nonfat,473,210,40,38,150,8.03
+Cinnamon Dolce Latte,grande,nonfat,473,280,43,40,150,8.46
+Cinnamon Dolce Latte,grande,2% milk,473,260,40,38,150,8.03
+Cinnamon Dolce Latte,grande,2% milk,473,330,42,40,150,8.46
+Cinnamon Dolce Latte,grande,whole,473,300,40,38,150,8.03
+Cinnamon Dolce Latte,grande,whole,473,370,42,40,150,8.46
+Cinnamon Dolce Latte,grande,soy,473,220,34,30,150,6.34
+Cinnamon Dolce Latte,grande,soy,473,300,37,32,150,6.77
+Cinnamon Dolce Latte,grande,coconut,473,210,36,33,150,6.98
+Cinnamon Dolce Latte,grande,coconut,473,290,38,36,150,7.61
+Cinnamon Dolce Latte,venti,nonfat,591,270,51,49,150,8.29
+Cinnamon Dolce Latte,venti,nonfat,591,340,54,51,150,8.63
+Cinnamon Dolce Latte,venti,2% milk,591,330,50,48,150,8.12
+Cinnamon Dolce Latte,venti,2% milk,591,410,53,50,150,8.46
+Cinnamon Dolce Latte,venti,whole,591,380,50,48,150,8.12
+Cinnamon Dolce Latte,venti,whole,591,450,53,50,150,8.46
+Cinnamon Dolce Latte,venti,soy,591,280,43,38,150,6.43
+Cinnamon Dolce Latte,venti,soy,591,360,46,40,150,6.77
+Cinnamon Dolce Latte,venti,coconut,591,270,45,42,150,7.11
+Cinnamon Dolce Latte,venti,coconut,591,350,47,45,150,7.61
+Flat White,short,nonfat,236,60,9,8,130,3.39
+Flat White,short,2% milk,236,90,9,8,130,3.39
+Flat White,short,whole,236,110,9,8,130,3.39
+Flat White,short,soy,236,70,6,4,130,1.69
+Flat White,short,coconut,236,60,7,5,130,2.12
+Flat White,tall,nonfat,354,100,15,13,130,3.67
+Flat White,tall,2% milk,354,140,14,13,130,3.67
+Flat White,tall,whole,354,170,14,13,130,3.67
+Flat White,tall,soy,354,110,10,6,130,1.69
+Flat White,tall,coconut,354,100,11,9,130,2.54
+Flat White,grande,nonfat,473,130,19,17,195,3.59
+Flat White,grande,2% milk,473,180,18,17,195,3.59
+Flat White,grande,whole,473,220,18,17,195,3.59
+Flat White,grande,soy,473,150,13,8,195,1.69
+Flat White,grande,coconut,473,130,14,11,195,2.33
+Flat White,venti,nonfat,591,170,24,23,195,3.89
+Flat White,venti,2% milk,591,240,24,22,195,3.72
+Flat White,venti,whole,591,290,24,22,195,3.72
+Flat White,venti,soy,591,190,16,11,195,1.86
+Flat White,venti,coconut,591,170,18,15,195,2.54
+Latte Macchiato,short,nonfat,236,60,10,8,150,3.39
+Latte Macchiato,short,2% milk,236,90,9,8,150,3.39
+Latte Macchiato,short,whole,236,110,9,8,150,3.39
+Latte Macchiato,short,soy,236,70,7,4,150,1.69
+Latte Macchiato,short,coconut,236,70,7,5,150,2.12
+Latte Macchiato,tall,nonfat,354,100,15,13,150,3.67
+Latte Macchiato,tall,2% milk,354,140,15,13,150,3.67
+Latte Macchiato,tall,whole,354,170,15,13,150,3.67
+Latte Macchiato,tall,soy,354,110,10,6,150,1.69
+Latte Macchiato,tall,coconut,354,100,11,9,150,2.54
+Latte Macchiato,grande,nonfat,473,130,19,17,225,3.59
+Latte Macchiato,grande,2% milk,473,190,19,17,225,3.59
+Latte Macchiato,grande,whole,473,220,19,17,225,3.59
+Latte Macchiato,grande,soy,473,140,13,8,225,1.69
+Latte Macchiato,grande,coconut,473,130,14,11,225,2.33
+Latte Macchiato,venti,nonfat,591,170,25,23,225,3.89
+Latte Macchiato,venti,2% milk,591,240,24,22,225,3.72
+Latte Macchiato,venti,whole,591,290,24,22,225,3.72
+Latte Macchiato,venti,soy,591,90,16,10,225,1.69
+Latte Macchiato,venti,coconut,591,170,18,15,225,2.54
+Skinny Cinnamon Dolce Latte,short,nonfat,236,60,9,8,75,3.39
+Skinny Cinnamon Dolce Latte,tall,nonfat,354,100,14,13,75,3.67
+Skinny Cinnamon Dolce Latte,grande,nonfat,473,120,19,16,150,3.38
+Skinny Cinnamon Dolce Latte,venti,nonfat,591,160,24,21,150,3.55
+Iced Skinny Cinnamon Dolce Latte,tall,nonfat,354,60,9,8,75,2.26
+Iced Skinny Cinnamon Dolce Latte,grande,nonfat,473,80,12,10,150,2.11
+Iced Skinny Cinnamon Dolce Latte,venti,nonfat,591,110,17,14,225,2.37
+Skinny Mocha,short,nonfat,236,80,12,7,75,2.97
+Skinny Mocha,tall,nonfat,354,130,18,12,75,3.39
+Skinny Mocha,grande,nonfat,473,160,24,15,150,3.17
+Skinny Mocha,venti,nonfat,591,210,30,19,150,3.21
+Iced Skinny Mocha,tall,nonfat,354,90,13,7,75,1.98
+Iced Skinny Mocha,grande,nonfat,473,120,17,8,150,1.69
+Iced Skinny Mocha,venti,nonfat,709,170,25,11,225,1.55
+Starbucks Doubleshot on ice,tall,nonfat,354,70,14,13,150,3.67
+Starbucks Doubleshot on ice,tall,2% milk,354,80,14,13,150,3.67
+Starbucks Doubleshot on ice,tall,whole,354,90,14,13,150,3.67
+Starbucks Doubleshot on ice,tall,soy,354,70,13,11,150,3.11
+Starbucks Doubleshot on ice,tall,coconut,354,70,13,12,150,3.39
+Starbucks Doubleshot on ice,grande,nonfat,473,90,20,18,225,3.81
+Starbucks Doubleshot on ice,grande,2% milk,473,100,20,18,225,3.81
+Starbucks Doubleshot on ice,grande,whole,473,110,20,18,225,3.81
+Starbucks Doubleshot on ice,grande,soy,473,100,19,16,225,3.38
+Starbucks Doubleshot on ice,grande,coconut,473,90,19,17,225,3.59
+Starbucks Doubleshot on ice,venti,nonfat,709,150,33,29,375,4.09
+Starbucks Doubleshot on ice,venti,2% milk,709,170,33,29,375,4.09
+Starbucks Doubleshot on ice,venti,whole,709,180,33,29,375,4.09
+Starbucks Doubleshot on ice,venti,soy,709,160,31,27,375,3.81
+Starbucks Doubleshot on ice,venti,coconut,709,150,32,28,375,3.95
+White Chocolate Mocha,short,nonfat,236,180,30,29,75,12.29
+White Chocolate Mocha,short,nonfat,236,230,32,30,75,12.71
+White Chocolate Mocha,short,2% milk,236,200,30,29,75,12.29
+White Chocolate Mocha,short,2% milk,236,250,32,30,75,12.71
+White Chocolate Mocha,short,whole,236,210,30,29,75,12.29
+White Chocolate Mocha,short,whole,236,270,32,30,75,12.71
+White Chocolate Mocha,short,soy,236,180,28,25,75,10.59
+White Chocolate Mocha,short,soy,236,230,29,26,75,11.02
+White Chocolate Mocha,short,coconut,236,180,28,27,75,11.44
+White Chocolate Mocha,short,coconut,236,230,30,28,75,11.86
+White Chocolate Mocha,tall,nonfat,354,270,46,45,75,12.71
+White Chocolate Mocha,tall,nonfat,354,330,48,46,75,12.99
+White Chocolate Mocha,tall,2% milk,354,300,46,44,75,12.43
+White Chocolate Mocha,tall,2% milk,354,370,47,46,75,12.99
+White Chocolate Mocha,tall,whole,354,330,46,44,75,12.43
+White Chocolate Mocha,tall,whole,354,390,47,46,75,12.99
+White Chocolate Mocha,tall,soy,354,280,41,38,75,10.73
+White Chocolate Mocha,tall,soy,354,340,43,40,75,11.3
+White Chocolate Mocha,tall,coconut,354,270,42,41,75,11.58
+White Chocolate Mocha,tall,coconut,354,330,44,43,75,12.15
+White Chocolate Mocha,grande,nonfat,473,350,61,58,150,12.26
+White Chocolate Mocha,grande,nonfat,473,420,63,60,150,12.68
+White Chocolate Mocha,grande,2% milk,473,400,60,58,150,12.26
+White Chocolate Mocha,grande,2% milk,473,470,62,59,150,12.47
+White Chocolate Mocha,grande,whole,473,430,60,58,150,12.26
+White Chocolate Mocha,grande,whole,473,500,62,59,150,12.47
+White Chocolate Mocha,grande,soy,473,360,55,51,150,10.78
+White Chocolate Mocha,grande,soy,473,430,57,52,150,10.99
+White Chocolate Mocha,grande,coconut,473,350,56,54,150,11.42
+White Chocolate Mocha,grande,coconut,473,420,58,56,150,11.84
+White Chocolate Mocha,venti,nonfat,591,440,77,74,150,12.52
+White Chocolate Mocha,venti,nonfat,591,510,79,76,150,12.86
+White Chocolate Mocha,venti,2% milk,591,500,76,74,150,12.52
+White Chocolate Mocha,venti,2% milk,591,580,78,75,150,12.69
+White Chocolate Mocha,venti,whole,591,550,76,74,150,12.52
+White Chocolate Mocha,venti,whole,591,620,78,75,150,12.69
+White Chocolate Mocha,venti,soy,591,460,69,64,150,10.83
+White Chocolate Mocha,venti,soy,591,530,71,65,150,11.0
+White Chocolate Mocha,venti,coconut,591,450,71,68,150,11.51
+White Chocolate Mocha,venti,coconut,591,520,73,70,150,11.84
+Iced White Chocolate Mocha,tall,nonfat,354,230,41,40,75,11.3
+Iced White Chocolate Mocha,tall,nonfat,354,310,43,41,75,11.58
+Iced White Chocolate Mocha,tall,2% milk,354,250,41,39,75,11.02
+Iced White Chocolate Mocha,tall,2% milk,354,330,43,41,75,11.58
+Iced White Chocolate Mocha,tall,whole,354,270,41,39,75,11.02
+Iced White Chocolate Mocha,tall,whole,354,350,43,41,75,11.58
+Iced White Chocolate Mocha,tall,soy,354,240,38,36,75,10.17
+Iced White Chocolate Mocha,tall,soy,354,320,41,38,75,10.73
+Iced White Chocolate Mocha,tall,coconut,354,230,39,37,75,10.45
+Iced White Chocolate Mocha,tall,coconut,354,310,41,39,75,11.02
+Iced White Chocolate Mocha,grande,nonfat,473,310,54,52,150,10.99
+Iced White Chocolate Mocha,grande,nonfat,473,420,58,55,150,11.63
+Iced White Chocolate Mocha,grande,2% milk,473,330,54,52,150,10.99
+Iced White Chocolate Mocha,grande,2% milk,473,450,57,54,150,11.42
+Iced White Chocolate Mocha,grande,whole,473,350,54,52,150,10.99
+Iced White Chocolate Mocha,grande,whole,473,470,57,54,150,11.42
+Iced White Chocolate Mocha,grande,soy,473,320,51,48,150,10.15
+Iced White Chocolate Mocha,grande,soy,473,430,55,50,150,10.57
+Iced White Chocolate Mocha,grande,coconut,473,310,52,49,150,10.36
+Iced White Chocolate Mocha,grande,coconut,473,420,55,52,150,10.99
+Iced White Chocolate Mocha,venti,nonfat,709,450,81,77,225,10.86
+Iced White Chocolate Mocha,venti,nonfat,709,570,84,80,225,11.28
+Iced White Chocolate Mocha,venti,2% milk,709,490,80,77,225,10.86
+Iced White Chocolate Mocha,venti,2% milk,709,600,84,79,225,11.14
+Iced White Chocolate Mocha,venti,whole,709,520,80,77,225,10.86
+Iced White Chocolate Mocha,venti,whole,709,630,84,79,225,11.14
+Iced White Chocolate Mocha,venti,soy,709,470,77,71,225,10.01
+Iced White Chocolate Mocha,venti,soy,709,580,80,74,225,10.44
+Iced White Chocolate Mocha,venti,coconut,709,450,77,73,225,10.3
+Iced White Chocolate Mocha,venti,coconut,709,570,80,76,225,10.72
+Iced Black tea,tall,none,354,60,15,15,25,4.24
+Iced Black tea,grande,none,473,80,20,20,30,4.23
+Iced Black tea,venti,none,709,120,30,30,45,4.23
+Iced Black tea,trenta,none,887,140,35,34,55,3.83
+Iced Black tea Lemonade,grande,none,473,90,24,24,25,5.07
+Iced Black tea Lemonade,venti,none,591,120,32,32,30,5.41
+Iced Black tea Lemonade,venti,none,709,190,48,47,45,6.63
+Iced Black tea Lemonade,trenta,none,887,220,58,57,55,6.43
+Chai tea Latte,short,nonfat,236,100,22,21,50,8.9
+Chai tea Latte,short,2% milk,236,120,22,21,50,8.9
+Chai tea Latte,short,whole,236,130,22,21,50,8.9
+Chai tea Latte,short,soy,236,110,20,18,50,7.63
+Chai tea Latte,short,coconut,236,100,21,19,50,8.05
+Chai tea Latte,tall,nonfat,354,160,34,32,70,9.04
+Chai tea Latte,tall,2% milk,354,190,34,32,70,9.04
+Chai tea Latte,tall,whole,354,200,34,32,70,9.04
+Chai tea Latte,tall,soy,354,160,31,28,70,7.91
+Chai tea Latte,tall,coconut,354,160,31,29,70,8.19
+Chai tea Latte,grande,nonfat,473,210,45,43,95,9.09
+Chai tea Latte,grande,2% milk,473,240,45,42,95,8.88
+Chai tea Latte,grande,whole,473,270,45,42,95,8.88
+Chai tea Latte,grande,soy,473,220,41,37,95,7.82
+Chai tea Latte,grande,coconut,473,210,41,39,95,8.25
+Chai tea Latte,venti,nonfat,591,260,57,54,120,9.14
+Chai tea Latte,venti,2% milk,591,310,56,53,120,8.97
+Chai tea Latte,venti,whole,591,340,56,53,120,8.97
+Chai tea Latte,venti,soy,591,280,51,46,120,7.78
+Chai tea Latte,venti,coconut,591,260,52,48,120,8.12
+Iced Chai Tea Latte,tall,nonfat,354,150,33,31,70,8.76
+Iced Chai Tea Latte,tall,2% milk,354,180,33,31,70,8.76
+Iced Chai Tea Latte,tall,whole,354,190,33,31,70,8.76
+Iced Chai Tea Latte,tall,soy,354,160,30,27,70,7.63
+Iced Chai Tea Latte,tall,coconut,354,150,31,29,70,8.19
+Iced Chai Tea Latte,grande,nonfat,473,200,44,42,95,8.88
+Iced Chai Tea Latte,grande,2% milk,473,240,44,42,95,8.88
+Iced Chai Tea Latte,grande,whole,473,260,44,42,95,8.88
+Iced Chai Tea Latte,grande,soy,473,220,41,37,95,7.82
+Iced Chai Tea Latte,grande,coconut,473,200,41,38,95,8.03
+Iced Chai Tea Latte,venti,nonfat,709,300,65,62,145,8.74
+Iced Chai Tea Latte,venti,2% milk,709,350,65,61,145,8.6
+Iced Chai Tea Latte,venti,whole,709,380,65,61,145,8.6
+Iced Chai Tea Latte,venti,soy,709,320,60,55,145,7.76
+Iced Chai Tea Latte,venti,coconut,709,300,61,57,145,8.04
+Earl Grey Brewed Tea,short,none,236,0,0,0,40,0.0
+Earl Grey Brewed Tea,tall,none,354,0,0,0,40,0.0
+Earl Grey Brewed Tea,grande,none,473,0,0,0,40,0.0
+Earl Grey Brewed Tea,venti,none,591,0,0,0,40,0.0
+Emperor's Clouds and Mist Brewed Tea,short,none,236,0,0,0,15,0.0
+Emperor's Clouds and Mist Brewed Tea,tall,none,354,0,0,0,15,0.0
+Emperor's Clouds and Mist Brewed Tea,grande,none,473,0,0,0,25,0.0
+Emperor's Clouds and Mist Brewed Tea,venti,none,591,0,0,0,25,0.0
+English Breakfast Black Brewed Tea,short,none,236,0,0,0,40,0.0
+English Breakfast Black Brewed Tea,tall,none,354,0,0,0,40,0.0
+English Breakfast Black Brewed Tea,grande,none,473,0,0,0,40,0.0
+English Breakfast Black Brewed Tea,venti,none,591,0,0,0,40,0.0
+English Breakfast Black Tea Latte,short,nonfat,236,80,15,15,40,6.36
+English Breakfast Black Tea Latte,short,2% milk,236,100,15,15,40,6.36
+English Breakfast Black Tea Latte,short,whole,236,110,15,15,40,6.36
+English Breakfast Black Tea Latte,short,soy,236,80,13,12,40,5.08
+English Breakfast Black Tea Latte,short,coconut,236,80,14,13,40,5.51
+English Breakfast Black Tea Latte,tall,nonfat,354,110,23,23,40,6.5
+English Breakfast Black Tea Latte,tall,2% milk,354,140,23,23,40,6.5
+English Breakfast Black Tea Latte,tall,whole,354,160,23,23,40,6.5
+English Breakfast Black Tea Latte,tall,soy,354,120,20,18,40,5.08
+English Breakfast Black Tea Latte,tall,coconut,354,120,20,20,40,5.65
+English Breakfast Black Tea Latte,grande,nonfat,473,150,30,30,40,6.34
+English Breakfast Black Tea Latte,grande,2% milk,473,180,30,30,40,6.34
+English Breakfast Black Tea Latte,grande,whole,473,210,30,30,40,6.34
+English Breakfast Black Tea Latte,grande,soy,473,160,26,24,40,5.07
+English Breakfast Black Tea Latte,grande,coconut,473,150,27,26,40,5.5
+English Breakfast Black Tea Latte,venti,nonfat,591,190,38,38,40,6.43
+English Breakfast Black Tea Latte,venti,2% milk,591,230,38,38,40,6.43
+English Breakfast Black Tea Latte,venti,whole,591,260,38,38,40,6.43
+English Breakfast Black Tea Latte,venti,soy,591,200,33,31,40,5.25
+English Breakfast Black Tea Latte,venti,coconut,591,190,34,33,40,5.58
+Green Tea Latte,short,nonfat,236,80,14,14,30,5.93
+Green Tea Latte,short,2% milk,236,110,14,14,30,5.93
+Green Tea Latte,short,whole,236,130,14,14,30,5.93
+Green Tea Latte,short,soy,236,90,11,9,30,3.81
+Green Tea Latte,short,coconut,236,80,11,11,30,4.66
+Green Tea Latte,tall,nonfat,354,140,25,24,55,6.78
+Green Tea Latte,tall,2% milk,354,190,25,24,55,6.78
+Green Tea Latte,tall,whole,354,220,25,24,55,6.78
+Green Tea Latte,tall,soy,354,160,20,17,55,4.8
+Green Tea Latte,tall,coconut,354,140,21,19,55,5.37
+Green Tea Latte,grande,nonfat,473,190,34,33,80,6.98
+Green Tea Latte,grande,2% milk,473,240,34,32,80,6.77
+Green Tea Latte,grande,whole,473,280,34,32,80,6.77
+Green Tea Latte,grande,soy,473,210,28,24,80,5.07
+Green Tea Latte,grande,coconut,473,190,29,27,80,5.71
+Green Tea Latte,venti,nonfat,591,250,45,44,110,7.45
+Green Tea Latte,venti,2% milk,591,320,45,43,110,7.28
+Green Tea Latte,venti,whole,591,370,45,43,110,7.28
+Green Tea Latte,venti,soy,591,280,38,32,110,5.41
+Green Tea Latte,venti,coconut,591,250,38,36,110,6.09
+Iced Green Tea Latte,tall,nonfat,354,120,22,21,55,5.93
+Iced Green Tea Latte,tall,2% milk,354,160,22,21,55,5.93
+Iced Green Tea Latte,tall,whole,354,180,22,21,55,5.93
+Iced Green Tea Latte,tall,soy,354,140,18,16,55,4.52
+Iced Green Tea Latte,tall,coconut,354,120,19,18,55,5.08
+Iced Green Tea Latte,grande,nonfat,473,170,32,31,80,6.55
+Iced Green Tea Latte,grande,2% milk,473,220,31,30,80,6.34
+Iced Green Tea Latte,grande,whole,473,250,31,30,80,6.34
+Iced Green Tea Latte,grande,soy,473,190,27,23,80,4.86
+Iced Green Tea Latte,grande,coconut,473,170,27,25,80,5.29
+Iced Green Tea Latte,venti,nonfat,709,240,44,42,110,5.92
+Iced Green Tea Latte,venti,2% milk,709,310,43,41,110,5.78
+Iced Green Tea Latte,venti,whole,709,350,43,41,110,5.78
+Iced Green Tea Latte,venti,soy,709,270,37,32,110,4.51
+Iced Green Tea Latte,venti,coconut,709,240,37,35,110,4.94
+Iced Green Tea,tall,none,354,60,15,15,25,4.24
+Iced Green Tea,grande,none,473,80,20,20,30,4.23
+Iced Green Tea,venti,none,709,120,30,30,45,4.23
+Iced Green Tea,trenta,none,887,140,35,34,55,3.83
+Iced Green Tea Lemonade,tall,none,354,90,24,24,25,6.78
+Iced Green Tea Lemonade,grande,none,473,120,32,32,30,6.77
+Iced Green Tea Lemonade,venti,none,709,190,48,47,45,6.63
+Iced Green Tea Lemonade,trenta,none,887,220,58,57,55,6.43
+Jade Citrus Mint Brewed tea,short,none,236,0,0,0,25,0.0
+Jade Citrus Mint Brewed tea,tall,none,354,0,0,0,25,0.0
+Jade Citrus Mint Brewed tea,grande,none,473,0,0,0,40,0.0
+Jade Citrus Mint Brewed tea,venti,none,591,0,0,0,40,0.0
+London Fog Tea Latte,short,nonfat,236,80,15,15,40,6.36
+London Fog Tea Latte,short,2% milk,236,100,15,15,40,6.36
+London Fog Tea Latte,short,whole,236,110,15,15,40,6.36
+London Fog Tea Latte,short,soy,236,80,13,12,40,5.08
+London Fog Tea Latte,short,coconut,236,80,14,13,40,5.51
+London Fog Tea Latte,tall,nonfat,354,110,23,23,40,6.5
+London Fog Tea Latte,tall,2% milk,354,140,23,23,40,6.5
+London Fog Tea Latte,tall,whole,354,160,23,23,40,6.5
+London Fog Tea Latte,tall,soy,354,120,20,18,40,5.08
+London Fog Tea Latte,tall,coconut,354,120,20,20,40,5.65
+London Fog Tea Latte,grande,nonfat,473,150,30,30,40,6.34
+London Fog Tea Latte,grande,2% milk,473,180,30,30,40,6.34
+London Fog Tea Latte,grande,whole,473,210,30,30,40,6.34
+London Fog Tea Latte,grande,soy,473,160,26,24,40,5.07
+London Fog Tea Latte,grande,coconut,473,150,27,26,40,5.5
+London Fog Tea Latte,venti,nonfat,591,190,38,38,40,6.43
+London Fog Tea Latte,venti,2% milk,591,230,38,38,40,6.43
+London Fog Tea Latte,venti,whole,591,260,38,38,40,6.43
+London Fog Tea Latte,venti,soy,591,200,33,31,40,5.25
+London Fog Tea Latte,venti,coconut,591,190,34,33,40,5.58
+Iced Mango Black Tea,tall,none,354,60,14,14,25,3.95
+Iced Mango Black Tea,grande,none,473,80,19,19,30,4.02
+Iced Mango Black Tea,venti,none,709,120,29,28,45,3.95
+Iced Mango Black Tea,trenta,none,887,140,34,33,55,3.72
+Iced Mango Black Tea Lemonade,tall,none,354,90,24,23,25,6.5
+Iced Mango Black Tea Lemonade,grande,none,473,120,31,31,30,6.55
+Iced Mango Black Tea Lemonade,venti,none,709,190,47,46,45,6.49
+Iced Mango Black Tea Lemonade,trenta,none,887,230,58,57,55,6.43
+Mint Majesty Brewed Tea,short,none,236,0,0,0,0,0.0
+Mint Majesty Brewed Tea,tall,none,354,0,0,0,0,0.0
+Mint Majesty Brewed Tea,grande,none,473,0,0,0,0,0.0
+Mint Majesty Brewed Tea,venti,none,591,0,0,0,0,0.0
+Oprah Chai Herbal Brewed Tea,short,none,236,0,0,0,0,0.0
+Oprah Chai Herbal Brewed Tea,tall,none,354,0,0,0,0,0.0
+Oprah Chai Herbal Brewed Tea,grande,none,473,0,0,0,0,0.0
+Oprah Chai Herbal Brewed Tea,venti,none,591,0,0,0,0,0.0
+Oprah Cinnamon Chai Brewed Tea,short,none,236,0,0,0,15,0.0
+Oprah Cinnamon Chai Brewed Tea,tall,none,354,0,0,0,15,0.0
+Oprah Cinnamon Chai Brewed Tea,grande,none,473,0,0,0,25,0.0
+Oprah Cinnamon Chai Brewed Tea,venti,none,591,0,0,0,25,0.0
+Oprah Cinnamon Chai Latte,short,nonfat,236,80,17,16,25,6.78
+Oprah Cinnamon Chai Latte,short,2% milk,236,100,16,15,25,6.36
+Oprah Cinnamon Chai Latte,short,whole,236,110,16,15,25,6.36
+Oprah Cinnamon Chai Latte,short,soy,236,90,15,13,25,5.51
+Oprah Cinnamon Chai Latte,short,coconut,236,80,15,14,25,5.93
+Oprah Cinnamon Chai Latte,tall,nonfat,354,130,25,23,40,6.5
+Oprah Cinnamon Chai Latte,tall,2% milk,354,150,25,23,40,6.5
+Oprah Cinnamon Chai Latte,tall,whole,354,170,25,23,40,6.5
+Oprah Cinnamon Chai Latte,tall,soy,354,130,22,21,40,5.93
+Oprah Cinnamon Chai Latte,tall,coconut,354,130,22,21,40,5.93
+Oprah Cinnamon Chai Latte,grande,nonfat,473,170,33,31,50,6.55
+Oprah Cinnamon Chai Latte,grande,2% milk,473,200,33,31,50,6.55
+Oprah Cinnamon Chai Latte,grande,whole,473,220,33,31,50,6.55
+Oprah Cinnamon Chai Latte,grande,soy,473,170,29,25,50,5.29
+Oprah Cinnamon Chai Latte,grande,coconut,473,170,30,28,50,5.92
+Oprah Cinnamon Chai Latte,venti,nonfat,591,210,41,39,65,6.6
+Oprah Cinnamon Chai Latte,venti,2% milk,591,250,41,38,65,6.43
+Oprah Cinnamon Chai Latte,venti,whole,591,280,41,38,65,6.43
+Oprah Cinnamon Chai Latte,venti,soy,591,220,36,32,65,5.41
+Oprah Cinnamon Chai Latte,venti,coconut,591,210,37,34,65,5.75
+Iced Oprah Cinnamon Chai Latte,tall,nonfat,354,120,24,23,40,6.5
+Iced Oprah Cinnamon Chai Latte,tall,2% milk,354,150,24,23,40,6.5
+Iced Oprah Cinnamon Chai Latte,tall,whole,354,160,24,23,40,6.5
+Iced Oprah Cinnamon Chai Latte,tall,soy,354,130,22,19,40,5.37
+Iced Oprah Cinnamon Chai Latte,tall,coconut,354,120,22,20,40,5.65
+Iced Oprah Cinnamon Chai Latte,grande,nonfat,473,170,33,31,50,6.55
+Iced Oprah Cinnamon Chai Latte,grande,2% milk,473,200,33,31,50,6.55
+Iced Oprah Cinnamon Chai Latte,grande,whole,473,220,33,31,50,6.55
+Iced Oprah Cinnamon Chai Latte,grande,soy,473,180,29,26,50,5.5
+Iced Oprah Cinnamon Chai Latte,grande,coconut,473,170,30,27,50,5.71
+Iced Oprah Cinnamon Chai Latte,venti,nonfat,709,240,48,45,75,6.35
+Iced Oprah Cinnamon Chai Latte,venti,2% milk,709,290,48,45,75,6.35
+Iced Oprah Cinnamon Chai Latte,venti,whole,709,320,48,45,75,6.35
+Iced Oprah Cinnamon Chai Latte,venti,soy,709,260,43,38,75,5.36
+Iced Oprah Cinnamon Chai Latte,venti,coconut,709,240,44,40,75,5.64
+Passion Tango Brewed Tea,short,none,236,0,0,0,0,0.0
+Passion Tango Brewed Tea,tall,none,354,0,0,0,0,0.0
+Passion Tango Brewed Tea,grande,none,473,0,0,0,0,0.0
+Passion Tango Brewed Tea,venti,none,591,0,0,0,0,0.0
+Iced Passion Tango Tea,tall,none,354,60,15,15,0,4.24
+Iced Passion Tango Tea,grande,none,473,80,20,20,0,4.23
+Iced Passion Tango Tea,venti,none,709,120,30,30,0,4.23
+Iced Passion Tango Tea,trenta,none,887,140,35,34,0,3.83
+Iced Passion Tango Tea Lemonade,tall,none,354,90,24,24,0,6.78
+Iced Passion Tango Tea Lemonade,grande,none,473,120,32,32,0,6.77
+Iced Passion Tango Tea Lemonade,venti,none,709,190,48,47,0,6.63
+Iced Passion Tango Tea Lemonade,trenta,none,887,220,58,57,0,6.43
+Peach Iced Green Tea,tall,none,354,60,15,15,25,4.24
+Peach Iced Green Tea,grande,none,473,80,20,20,30,4.23
+Peach Iced Green Tea,venti,none,709,130,31,30,45,4.23
+Peach Iced Green Tea,trenta,none,887,150,36,35,55,3.95
+Peach Iced Green Tea Lemonade,tall,none,354,100,25,24,25,6.78
+Peach Iced Green Tea Lemonade,grande,none,473,130,33,32,30,6.77
+Peach Iced Green Tea Lemonade,venti,none,709,190,49,48,45,6.77
+Peach Iced Green Tea Lemonade,trenta,none,887,240,60,59,55,6.65
+Peach Tranquility Brewed Tea,short,none,236,0,0,0,0,0.0
+Peach Tranquility Brewed Tea,tall,none,354,0,0,0,0,0.0
+Peach Tranquility Brewed Tea,grande,none,473,0,0,0,0,0.0
+Peach Tranquility Brewed Tea,venti,none,591,0,0,0,0,0.0
+Youthberry Brewed Tea,short,none,236,0,0,0,15,0.0
+Youthberry Brewed Tea,tall,none,354,0,0,0,15,0.0
+Youthberry Brewed Tea,grande,none,473,0,0,0,25,0.0
+Youthberry Brewed Tea,venti,none,591,0,0,0,25,0.0
+Cool Lime Starbucks Refreshers,tall,none,354,60,14,14,45,3.95
+Cool Lime Starbucks Refreshers,grande,none,473,70,19,18,55,3.81
+Cool Lime Starbucks Refreshers,venti,none,709,110,28,27,85,3.81
+Cool Lime Starbucks Refreshers,trenta,none,887,150,37,36,110,4.06
+Very Berry Hibiscus Starbucks Refreshers,tall,none,354,70,18,15,45,4.24
+Very Berry Hibiscus Starbucks Refreshers,grande,none,473,90,22,20,55,4.23
+Very Berry Hibiscus Starbucks Refreshers,venti,none,709,130,32,29,85,4.09
+Very Berry Hibiscus Starbucks Refreshers,trenta,none,887,180,44,40,110,4.51
+Chocolate Smoothie,grande,nonfat,473,300,53,34,20,7.19
+Chocolate Smoothie,grande,2% milk,473,320,53,34,20,7.19
+Chocolate Smoothie,grande,whole,473,340,53,34,20,7.19
+Chocolate Smoothie,grande,soy,473,310,51,31,20,6.55
+Chocolate Smoothie,grande,coconut,473,290,51,32,20,6.77
+Orange Mango Smoothie,grande,nonfat,473,260,54,37,0,7.82
+Orange Mango Smoothie,grande,2% milk,473,270,53,37,0,7.82
+Orange Mango Smoothie,grande,whole,473,280,53,37,0,7.82
+Orange Mango Smoothie,grande,soy,473,270,53,36,0,7.61
+Orange Mango Smoothie,grande,coconut,473,260,53,36,0,7.61
+Strawberry Smoothie,grande,nonfat,473,290,60,41,0,8.67
+Strawberry Smoothie,grande,2% milk,473,300,60,41,0,8.67
+Strawberry Smoothie,grande,whole,473,300,60,41,0,8.67
+Strawberry Smoothie,grande,soy,473,290,59,40,0,8.46
+Strawberry Smoothie,grande,coconut,473,290,59,41,0,8.67
+Caffè Vanilla Frappuccino Blended,tall,nonfat,354,200,47,46,65,12.99
+Caffè Vanilla Frappuccino Blended,tall,nonfat,354,280,50,48,65,13.56
+Caffè Vanilla Frappuccino Blended,tall,2% milk,354,210,47,46,65,12.99
+Caffè Vanilla Frappuccino Blended,tall,2% milk,354,290,50,48,65,13.56
+Caffè Vanilla Frappuccino Blended,tall,whole,354,220,47,46,65,12.99
+Caffè Vanilla Frappuccino Blended,tall,whole,354,300,50,48,65,13.56
+Caffè Vanilla Frappuccino Blended,tall,soy,354,200,46,44,65,12.43
+Caffè Vanilla Frappuccino Blended,tall,soy,354,290,48,46,65,12.99
+Caffè Vanilla Frappuccino Blended,tall,coconut,354,200,47,45,65,12.71
+Caffè Vanilla Frappuccino Blended,tall,coconut,354,280,49,47,65,13.28
+Caffè Vanilla Frappuccino Blended,grande,nonfat,473,290,69,67,95,14.16
+Caffè Vanilla Frappuccino Blended,grande,nonfat,473,400,72,69,95,14.59
+Caffè Vanilla Frappuccino Blended,grande,2% milk,473,300,68,67,95,14.16
+Caffè Vanilla Frappuccino Blended,grande,2% milk,473,420,72,69,95,14.59
+Caffè Vanilla Frappuccino Blended,grande,whole,473,310,68,67,95,14.16
+Caffè Vanilla Frappuccino Blended,grande,whole,473,430,72,69,95,14.59
+Caffè Vanilla Frappuccino Blended,grande,soy,473,290,67,64,95,13.53
+Caffè Vanilla Frappuccino Blended,grande,soy,473,410,70,67,95,14.16
+Caffè Vanilla Frappuccino Blended,grande,coconut,473,290,68,66,95,13.95
+Caffè Vanilla Frappuccino Blended,grande,coconut,473,400,71,69,95,14.59
+Caffè Vanilla Frappuccino Blended,venti,nonfat,709,370,88,86,125,12.13
+Caffè Vanilla Frappuccino Blended,venti,nonfat,709,490,92,88,125,12.41
+Caffè Vanilla Frappuccino Blended,venti,2% milk,709,400,88,86,125,12.13
+Caffè Vanilla Frappuccino Blended,venti,2% milk,709,510,91,88,125,12.41
+Caffè Vanilla Frappuccino Blended,venti,whole,709,410,88,86,125,12.13
+Caffè Vanilla Frappuccino Blended,venti,whole,709,530,91,88,125,12.41
+Caffè Vanilla Frappuccino Blended,venti,soy,709,380,86,82,125,11.57
+Caffè Vanilla Frappuccino Blended,venti,soy,709,500,89,85,125,11.99
+Caffè Vanilla Frappuccino Blended,venti,coconut,709,380,87,84,125,11.85
+Caffè Vanilla Frappuccino Blended,venti,coconut,709,490,90,87,125,12.27
+Caramel Frappuccino Blended,tall,nonfat,354,180,42,42,70,11.86
+Caramel Frappuccino Blended,tall,nonfat,354,280,47,47,70,13.28
+Caramel Frappuccino Blended,tall,2% milk,354,190,42,42,70,11.86
+Caramel Frappuccino Blended,tall,2% milk,354,290,47,46,70,12.99
+Caramel Frappuccino Blended,tall,whole,354,200,42,42,70,11.86
+Caramel Frappuccino Blended,tall,whole,354,300,47,46,70,12.99
+Caramel Frappuccino Blended,tall,soy,354,190,41,40,70,11.3
+Caramel Frappuccino Blended,tall,soy,354,280,46,45,70,12.71
+Caramel Frappuccino Blended,tall,coconut,354,180,41,40,70,11.3
+Caramel Frappuccino Blended,tall,coconut,354,280,46,45,70,12.71
+Caramel Frappuccino Blended,grande,nonfat,473,260,60,60,100,12.68
+Caramel Frappuccino Blended,grande,nonfat,473,390,67,66,100,13.95
+Caramel Frappuccino Blended,grande,2% milk,473,270,60,60,100,12.68
+Caramel Frappuccino Blended,grande,2% milk,473,410,67,66,100,13.95
+Caramel Frappuccino Blended,grande,whole,473,280,60,60,100,12.68
+Caramel Frappuccino Blended,grande,whole,473,420,67,66,100,13.95
+Caramel Frappuccino Blended,grande,soy,473,260,59,57,100,12.05
+Caramel Frappuccino Blended,grande,soy,473,400,65,63,100,13.32
+Caramel Frappuccino Blended,grande,coconut,473,260,59,58,100,12.26
+Caramel Frappuccino Blended,grande,coconut,473,390,65,64,100,13.53
+Caramel Frappuccino Blended,venti,nonfat,709,340,79,78,130,11.0
+Caramel Frappuccino Blended,venti,nonfat,709,470,85,84,130,11.85
+Caramel Frappuccino Blended,venti,2% milk,709,360,78,78,130,11.0
+Caramel Frappuccino Blended,venti,2% milk,709,500,85,84,130,11.85
+Caramel Frappuccino Blended,venti,whole,709,380,78,78,130,11.0
+Caramel Frappuccino Blended,venti,whole,709,510,85,84,130,11.85
+Caramel Frappuccino Blended,venti,soy,709,350,76,74,130,10.44
+Caramel Frappuccino Blended,venti,soy,709,480,83,80,130,11.28
+Caramel Frappuccino Blended,venti,coconut,709,340,76,75,130,10.58
+Caramel Frappuccino Blended,venti,coconut,709,470,83,81,130,11.42
+Coffee Frappuccino Blended,tall,nonfat,354,160,36,36,70,10.17
+Coffee Frappuccino Blended,tall,2% milk,354,170,36,36,70,10.17
+Coffee Frappuccino Blended,tall,whole,354,180,36,36,70,10.17
+Coffee Frappuccino Blended,tall,soy,354,160,35,34,70,9.6
+Coffee Frappuccino Blended,tall,coconut,354,160,36,35,70,9.89
+Coffee Frappuccino Blended,grande,nonfat,473,220,51,50,95,10.57
+Coffee Frappuccino Blended,grande,2% milk,473,230,50,50,95,10.57
+Coffee Frappuccino Blended,grande,whole,473,240,50,50,95,10.57
+Coffee Frappuccino Blended,grande,soy,473,220,49,47,95,9.94
+Coffee Frappuccino Blended,grande,coconut,473,220,50,49,95,10.36
+Coffee Frappuccino Blended,venti,nonfat,709,310,70,69,130,9.73
+Coffee Frappuccino Blended,venti,2% milk,709,330,70,69,130,9.73
+Coffee Frappuccino Blended,venti,whole,709,350,70,69,130,9.73
+Coffee Frappuccino Blended,venti,soy,709,310,68,66,130,9.31
+Coffee Frappuccino Blended,venti,coconut,709,310,69,68,135,9.59
+Espresso Frappuccino Blended,tall,nonfat,354,150,34,33,130,9.32
+Espresso Frappuccino Blended,tall,2% milk,354,150,34,33,130,9.32
+Espresso Frappuccino Blended,tall,whole,354,160,34,33,130,9.32
+Espresso Frappuccino Blended,tall,soy,354,150,33,31,130,8.76
+Espresso Frappuccino Blended,tall,coconut,354,150,34,32,130,9.04
+Espresso Frappuccino Blended,grande,nonfat,473,210,50,49,165,10.36
+Espresso Frappuccino Blended,grande,2% milk,473,220,50,48,165,10.15
+Espresso Frappuccino Blended,grande,whole,473,230,50,48,165,10.15
+Espresso Frappuccino Blended,grande,soy,473,220,49,47,165,9.94
+Espresso Frappuccino Blended,grande,coconut,473,220,50,48,165,10.15
+Espresso Frappuccino Blended,venti,nonfat,709,280,65,63,185,8.89
+Espresso Frappuccino Blended,venti,2% milk,709,300,65,63,185,8.89
+Espresso Frappuccino Blended,venti,whole,709,310,65,63,185,8.89
+Espresso Frappuccino Blended,venti,soy,709,290,63,60,165,8.46
+Espresso Frappuccino Blended,venti,coconut,709,280,64,62,165,8.74
+Java Chip Frappuccino Blended,tall,nonfat,354,230,47,44,75,12.43
+Java Chip Frappuccino Blended,tall,nonfat,354,230,51,47,75,13.28
+Java Chip Frappuccino Blended,tall,2% milk,354,240,47,44,75,12.43
+Java Chip Frappuccino Blended,tall,2% milk,354,330,51,47,75,13.28
+Java Chip Frappuccino Blended,tall,whole,354,250,47,44,75,12.43
+Java Chip Frappuccino Blended,tall,whole,354,340,51,47,75,13.28
+Java Chip Frappuccino Blended,tall,soy,354,230,46,42,75,11.86
+Java Chip Frappuccino Blended,tall,soy,354,320,50,45,75,12.71
+Java Chip Frappuccino Blended,tall,coconut,354,230,46,43,75,12.15
+Java Chip Frappuccino Blended,tall,coconut,354,320,50,46,75,12.99
+Java Chip Frappuccino Blended,grande,nonfat,473,320,68,63,110,13.32
+Java Chip Frappuccino Blended,grande,nonfat,473,440,72,67,110,14.16
+Java Chip Frappuccino Blended,grande,2% milk,473,340,58,63,110,13.32
+Java Chip Frappuccino Blended,grande,2% milk,473,460,72,66,110,13.95
+Java Chip Frappuccino Blended,grande,whole,473,350,68,63,110,13.32
+Java Chip Frappuccino Blended,grande,whole,473,470,72,66,110,13.95
+Java Chip Frappuccino Blended,grande,soy,473,330,66,61,110,12.9
+Java Chip Frappuccino Blended,grande,soy,473,450,71,64,110,13.53
+Java Chip Frappuccino Blended,grande,coconut,473,320,66,61,110,12.9
+Java Chip Frappuccino Blended,grande,coconut,473,440,71,66,110,13.95
+Java Chip Frappuccino Blended,venti,nonfat,709,440,91,85,145,11.99
+Java Chip Frappuccino Blended,venti,nonfat,709,560,96,89,145,12.55
+Java Chip Frappuccino Blended,venti,2% milk,709,460,91,85,145,11.99
+Java Chip Frappuccino Blended,venti,2% milk,709,580,96,88,145,12.41
+Java Chip Frappuccino Blended,venti,whole,709,480,91,85,145,11.99
+Java Chip Frappuccino Blended,venti,whole,709,600,96,88,145,12.41
+Java Chip Frappuccino Blended,venti,soy,709,450,89,81,145,11.42
+Java Chip Frappuccino Blended,venti,soy,709,570,93,85,145,11.99
+Java Chip Frappuccino Blended,venti,coconut,709,440,89,82,145,11.57
+Java Chip Frappuccino Blended,venti,coconut,709,560,94,87,145,12.27
+Iced Caffè Mocha,tall,nonfat,354,190,42,40,75,11.3
+Iced Caffè Mocha,tall,nonfat,354,270,45,42,75,11.86
+Iced Caffè Mocha,tall,2% milk,354,200,42,40,75,11.3
+Iced Caffè Mocha,tall,2% milk,354,280,44,42,75,11.86
+Iced Caffè Mocha,tall,whole,354,210,42,40,75,11.3
+Iced Caffè Mocha,tall,whole,354,290,44,42,75,11.86
+Iced Caffè Mocha,tall,soy,354,190,41,38,75,10.73
+Iced Caffè Mocha,tall,soy,354,270,43,40,75,11.3
+Iced Caffè Mocha,tall,coconut,354,190,41,39,75,11.02
+Iced Caffè Mocha,tall,coconut,354,270,43,41,75,11.58
+Iced Caffè Mocha,grande,nonfat,473,270,61,59,110,12.47
+Iced Caffè Mocha,grande,nonfat,473,390,65,61,110,12.9
+Iced Caffè Mocha,grande,2% milk,473,290,61,58,110,12.26
+Iced Caffè Mocha,grande,2% milk,473,400,65,61,110,12.9
+Iced Caffè Mocha,grande,whole,473,300,61,58,110,12.26
+Iced Caffè Mocha,grande,whole,473,410,65,61,110,12.9
+Iced Caffè Mocha,grande,soy,473,280,60,56,110,11.84
+Iced Caffè Mocha,grande,soy,473,390,63,58,110,12.26
+Iced Caffè Mocha,grande,coconut,473,270,60,57,110,12.05
+Iced Caffè Mocha,grande,coconut,473,390,63,60,110,12.68
+Iced Caffè Mocha,venti,nonfat,709,360,81,77,140,10.86
+Iced Caffè Mocha,venti,nonfat,709,480,84,80,140,11.28
+Iced Caffè Mocha,venti,2% milk,709,390,81,77,140,10.86
+Iced Caffè Mocha,venti,2% milk,709,500,84,80,140,11.28
+Iced Caffè Mocha,venti,whole,709,400,81,77,140,10.86
+Iced Caffè Mocha,venti,whole,709,520,84,80,140,11.28
+Iced Caffè Mocha,venti,soy,709,370,79,74,140,10.44
+Iced Caffè Mocha,venti,soy,709,490,82,76,140,10.72
+Iced Caffè Mocha,venti,coconut,709,360,79,75,140,10.58
+Iced Caffè Mocha,venti,coconut,709,470,82,78,140,11.0
+Caffè Vanilla Frappuccino Light,tall,nonfat,354,140,31,30,65,8.47
+Caffè Vanilla Frappuccino Light,grande,nonfat,473,190,43,41,95,8.67
+Caffè Vanilla Frappuccino Light,venti,nonfat,709,250,58,55,125,7.76
+Caramel Frappuccino Light,tall,nonfat,354,100,23,23,65,6.5
+Caramel Frappuccino Light,grande,nonfat,473,150,33,32,90,6.77
+Caramel Frappuccino Light,venti,nonfat,709,200,44,43,120,6.06
+Coffee Frappuccino Light,tall,nonfat,354,90,2,19,70,5.37
+Coffee Frappuccino Light,grande,nonfat,473,120,26,26,95,5.5
+Coffee Frappuccino Light,venti,nonfat,709,160,34,33,120,4.65
+Espresso Frappuccino Light,tall,nonfat,354,80,17,16,125,4.52
+Espresso Frappuccino Light,grande,nonfat,473,120,26,24,155,5.07
+Espresso Frappuccino Light,venti,nonfat,709,160,35,34,150,4.8
+Java Chip Light Frappuccino,tall,nonfat,354,160,30,27,75,7.63
+Java Chip Light Frappuccino,grande,nonfat,473,230,43,39,110,8.25
+Java Chip Light Frappuccino,venti,nonfat,709,300,58,52,140,7.33
+Mocha Light Frappuccino,tall,nonfat,354,120,24,23,70,6.5
+Mocha Light Frappuccino,grande,nonfat,473,160,33,30,95,6.34
+Mocha Light Frappuccino,venti,nonfat,709,220,46,42,130,5.92
+Blended Strawberry Lemonade,tall,none,354,160,40,39,0,11.02
+Blended Strawberry Lemonade,grande,none,473,200,52,50,0,10.57
+Blended Strawberry Lemonade,venti,none,709,280,71,69,0,9.73
+Chai Crème Frappuccino Blended,tall,nonfat,354,140,33,32,20,9.04
+Chai Crème Frappuccino Blended,tall,nonfat,354,230,35,34,20,9.6
+Chai Crème Frappuccino Blended,tall,2% milk,354,160,32,32,20,9.04
+Chai Crème Frappuccino Blended,tall,2% milk,354,240,35,34,20,9.6
+Chai Crème Frappuccino Blended,tall,whole,354,170,32,32,20,9.04
+Chai Crème Frappuccino Blended,tall,whole,354,250,35,34,20,9.6
+Chai Crème Frappuccino Blended,tall,soy,354,150,31,29,20,8.19
+Chai Crème Frappuccino Blended,tall,soy,354,230,33,31,20,8.76
+Chai Crème Frappuccino Blended,tall,coconut,354,140,31,30,20,8.47
+Chai Crème Frappuccino Blended,tall,coconut,354,220,33,32,20,9.04
+Chai Crème Frappuccino Blended,grande,nonfat,473,210,49,48,40,10.15
+Chai Crème Frappuccino Blended,grande,nonfat,473,330,53,50,40,10.57
+Chai Crème Frappuccino Blended,grande,2% milk,473,230,49,48,40,10.15
+Chai Crème Frappuccino Blended,grande,2% milk,473,350,52,50,40,10.57
+Chai Crème Frappuccino Blended,grande,whole,473,250,49,48,40,10.15
+Chai Crème Frappuccino Blended,grande,whole,473,360,52,50,40,10.57
+Chai Crème Frappuccino Blended,grande,soy,473,220,47,45,40,9.51
+Chai Crème Frappuccino Blended,grande,soy,473,340,50,47,40,9.94
+Chai Crème Frappuccino Blended,grande,coconut,473,210,47,46,40,9.73
+Chai Crème Frappuccino Blended,grande,coconut,473,330,50,49,40,10.36
+Chai Crème Frappuccino Blended,venti,nonfat,709,290,66,65,40,9.17
+Chai Crème Frappuccino Blended,venti,nonfat,709,410,70,67,45,9.45
+Chai Crème Frappuccino Blended,venti,2% milk,709,330,66,65,45,9.17
+Chai Crème Frappuccino Blended,venti,2% milk,709,440,69,67,45,9.45
+Chai Crème Frappuccino Blended,venti,whole,709,350,66,65,45,9.17
+Chai Crème Frappuccino Blended,venti,whole,709,460,69,67,45,9.45
+Chai Crème Frappuccino Blended,venti,soy,709,300,63,60,45,8.46
+Chai Crème Frappuccino Blended,venti,soy,709,420,66,62,45,8.74
+Chai Crème Frappuccino Blended,venti,coconut,709,290,63,61,45,8.6
+Chai Crème Frappuccino Blended,venti,coconut,709,400,66,64,45,9.03
+Double Chocolaty Chip Crème Frappuccino Blended,tall,nonfat,354,200,39,36,10,10.17
+Double Chocolaty Chip Crème Frappuccino Blended,tall,nonfat,354,280,42,39,10,11.02
+Double Chocolaty Chip Crème Frappuccino Blended,tall,2% milk,354,210,38,35,10,9.89
+Double Chocolaty Chip Crème Frappuccino Blended,tall,2% milk,354,300,42,38,10,10.73
+Double Chocolaty Chip Crème Frappuccino Blended,tall,whole,354,220,38,35,10,9.89
+Double Chocolaty Chip Crème Frappuccino Blended,tall,whole,354,310,42,38,10,10.73
+Double Chocolaty Chip Crème Frappuccino Blended,tall,soy,354,200,37,33,10,9.32
+Double Chocolaty Chip Crème Frappuccino Blended,tall,soy,354,290,40,36,10,10.17
+Double Chocolaty Chip Crème Frappuccino Blended,tall,coconut,354,200,37,34,10,9.6
+Double Chocolaty Chip Crème Frappuccino Blended,tall,coconut,354,280,41,37,10,10.45
+Double Chocolaty Chip Crème Frappuccino Blended,grande,nonfat,473,270,53,49,15,10.36
+Double Chocolaty Chip Crème Frappuccino Blended,grande,nonfat,473,390,58,52,15,10.99
+Double Chocolaty Chip Crème Frappuccino Blended,grande,2% milk,473,290,53,49,15,10.36
+Double Chocolaty Chip Crème Frappuccino Blended,grande,2% milk,473,410,57,52,15,10.99
+Double Chocolaty Chip Crème Frappuccino Blended,grande,whole,473,300,53,49,15,10.36
+Double Chocolaty Chip Crème Frappuccino Blended,grande,whole,473,420,57,52,15,10.99
+Double Chocolaty Chip Crème Frappuccino Blended,grande,soy,473,270,51,45,15,9.51
+Double Chocolaty Chip Crème Frappuccino Blended,grande,soy,473,400,55,49,15,10.36
+Double Chocolaty Chip Crème Frappuccino Blended,grande,coconut,473,270,51,46,15,9.73
+Double Chocolaty Chip Crème Frappuccino Blended,grande,coconut,473,390,56,51,15,10.78
+Double Chocolaty Chip Crème Frappuccino Blended,venti,nonfat,709,360,71,66,20,9.31
+Double Chocolaty Chip Crème Frappuccino Blended,venti,nonfat,709,480,76,69,20,9.73
+Double Chocolaty Chip Crème Frappuccino Blended,venti,2% milk,709,390,71,65,20,9.17
+Double Chocolaty Chip Crème Frappuccino Blended,venti,2% milk,709,510,76,69,20,9.73
+Double Chocolaty Chip Crème Frappuccino Blended,venti,whole,709,410,71,65,20,9.17
+Double Chocolaty Chip Crème Frappuccino Blended,venti,whole,709,540,76,69,20,9.73
+Double Chocolaty Chip Crème Frappuccino Blended,venti,soy,709,370,68,61,20,8.6
+Double Chocolaty Chip Crème Frappuccino Blended,venti,soy,709,490,72,64,20,9.03
+Double Chocolaty Chip Crème Frappuccino Blended,venti,coconut,709,360,68,62,20,8.74
+Double Chocolaty Chip Crème Frappuccino Blended,venti,coconut,709,480,73,67,20,9.45
+Green Tea Crème Frappuccino Blended,tall,nonfat,354,210,47,46,50,12.99
+Green Tea Crème Frappuccino Blended,tall,nonfat,354,290,50,48,50,13.56
+Green Tea Crème Frappuccino Blended,tall,2% milk,354,230,47,46,50,12.99
+Green Tea Crème Frappuccino Blended,tall,2% milk,354,310,50,48,50,13.56
+Green Tea Crème Frappuccino Blended,tall,whole,354,240,47,46,50,12.99
+Green Tea Crème Frappuccino Blended,tall,whole,354,320,50,48,50,13.56
+Green Tea Crème Frappuccino Blended,tall,soy,354,220,46,44,50,12.43
+Green Tea Crème Frappuccino Blended,tall,soy,354,300,48,45,50,12.71
+Green Tea Crème Frappuccino Blended,tall,coconut,354,210,46,44,50,12.43
+Green Tea Crème Frappuccino Blended,tall,coconut,354,290,48,47,50,13.28
+Green Tea Crème Frappuccino Blended,grande,nonfat,473,280,64,63,70,13.32
+Green Tea Crème Frappuccino Blended,grande,nonfat,473,400,68,65,70,13.74
+Green Tea Crème Frappuccino Blended,grande,2% milk,473,300,64,63,70,13.32
+Green Tea Crème Frappuccino Blended,grande,2% milk,473,420,68,65,70,13.74
+Green Tea Crème Frappuccino Blended,grande,whole,473,320,64,63,70,13.32
+Green Tea Crème Frappuccino Blended,grande,whole,473,430,68,65,70,13.74
+Green Tea Crème Frappuccino Blended,grande,soy,473,290,62,60,70,12.68
+Green Tea Crème Frappuccino Blended,grande,soy,473,400,65,62,70,13.11
+Green Tea Crème Frappuccino Blended,grande,coconut,473,280,62,61,70,12.9
+Green Tea Crème Frappuccino Blended,grande,coconut,473,390,66,64,70,13.53
+Green Tea Crème Frappuccino Blended,venti,nonfat,709,390,88,86,95,12.13
+Green Tea Crème Frappuccino Blended,venti,nonfat,709,500,91,88,95,12.41
+Green Tea Crème Frappuccino Blended,venti,2% milk,709,420,87,86,95,12.13
+Green Tea Crème Frappuccino Blended,venti,2% milk,709,530,91,88,95,12.41
+Green Tea Crème Frappuccino Blended,venti,whole,709,440,87,86,95,12.13
+Green Tea Crème Frappuccino Blended,venti,whole,709,550,91,88,95,12.41
+Green Tea Crème Frappuccino Blended,venti,soy,709,400,84,81,95,11.42
+Green Tea Crème Frappuccino Blended,venti,soy,709,510,87,83,95,11.71
+Green Tea Crème Frappuccino Blended,venti,coconut,709,380,85,82,95,11.57
+Green Tea Crème Frappuccino Blended,venti,coconut,709,500,88,85,95,11.99
+Oprah Cinnamon Chai Crème Frappuccino Blended,tall,nonfat,354,140,30,30,20,8.47
+Oprah Cinnamon Chai Crème Frappuccino Blended,tall,nonfat,354,220,33,32,20,9.04
+Oprah Cinnamon Chai Crème Frappuccino Blended,tall,2% milk,354,150,30,29,20,8.19
+Oprah Cinnamon Chai Crème Frappuccino Blended,tall,2% milk,354,230,33,32,20,9.04
+Oprah Cinnamon Chai Crème Frappuccino Blended,tall,whole,354,160,30,29,20,8.19
+Oprah Cinnamon Chai Crème Frappuccino Blended,tall,whole,354,240,33,32,20,9.04
+Oprah Cinnamon Chai Crème Frappuccino Blended,tall,soy,354,140,29,27,20,7.63
+Oprah Cinnamon Chai Crème Frappuccino Blended,tall,soy,354,220,31,30,20,8.47
+Oprah Cinnamon Chai Crème Frappuccino Blended,tall,coconut,354,140,29,28,20,7.91
+Oprah Cinnamon Chai Crème Frappuccino Blended,tall,coconut,354,220,31,30,20,8.47
+Oprah Cinnamon Chai Crème Frappuccino Blended,grande,nonfat,473,190,42,41,25,8.67
+Oprah Cinnamon Chai Crème Frappuccino Blended,grande,nonfat,473,300,45,44,25,9.3
+Oprah Cinnamon Chai Crème Frappuccino Blended,grande,2% milk,473,200,42,41,25,8.67
+Oprah Cinnamon Chai Crème Frappuccino Blended,grande,2% milk,473,320,45,44,25,9.3
+Oprah Cinnamon Chai Crème Frappuccino Blended,grande,whole,473,220,42,41,25,8.67
+Oprah Cinnamon Chai Crème Frappuccino Blended,grande,whole,473,330,45,44,25,9.3
+Oprah Cinnamon Chai Crème Frappuccino Blended,grande,soy,473,190,40,38,25,8.03
+Oprah Cinnamon Chai Crème Frappuccino Blended,grande,soy,473,310,43,41,25,8.67
+Oprah Cinnamon Chai Crème Frappuccino Blended,grande,coconut,473,190,40,39,25,8.25
+Oprah Cinnamon Chai Crème Frappuccino Blended,grande,coconut,473,300,43,42,25,8.88
+Oprah Cinnamon Chai Crème Frappuccino Blended,venti,nonfat,709,260,59,58,40,8.18
+Oprah Cinnamon Chai Crème Frappuccino Blended,venti,nonfat,709,380,63,61,40,8.6
+Oprah Cinnamon Chai Crème Frappuccino Blended,venti,2% milk,709,290,59,57,40,8.04
+Oprah Cinnamon Chai Crème Frappuccino Blended,venti,2% milk,709,410,62,61,40,8.6
+Oprah Cinnamon Chai Crème Frappuccino Blended,venti,whole,709,310,59,57,40,8.04
+Oprah Cinnamon Chai Crème Frappuccino Blended,venti,whole,709,420,62,61,40,8.6
+Oprah Cinnamon Chai Crème Frappuccino Blended,venti,soy,709,270,56,53,40,7.48
+Oprah Cinnamon Chai Crème Frappuccino Blended,venti,soy,709,390,59,56,40,7.9
+Oprah Cinnamon Chai Crème Frappuccino Blended,venti,coconut,709,270,57,55,40,7.76
+Oprah Cinnamon Chai Crème Frappuccino Blended,venti,coconut,709,380,60,58,40,8.18
+Strawberries & Crème Frappuccino Blended,tall,nonfat,354,170,38,37,0,10.45
+Strawberries & Crème Frappuccino Blended,tall,nonfat,354,250,41,39,0,11.02
+Strawberries & Crème Frappuccino Blended,tall,2% milk,354,180,38,37,0,10.45
+Strawberries & Crème Frappuccino Blended,tall,2% milk,354,260,40,39,0,11.02
+Strawberries & Crème Frappuccino Blended,tall,whole,354,190,38,37,0,10.45
+Strawberries & Crème Frappuccino Blended,tall,whole,354,270,40,39,0,11.02
+Strawberries & Crème Frappuccino Blended,tall,soy,354,170,37,35,0,9.89
+Strawberries & Crème Frappuccino Blended,tall,soy,354,250,39,37,0,10.45
+Strawberries & Crème Frappuccino Blended,tall,coconut,354,170,37,35,0,9.89
+Strawberries & Crème Frappuccino Blended,tall,coconut,354,250,39,38,0,10.73
+Strawberries & Crème Frappuccino Blended,grande,nonfat,473,230,53,52,0,10.99
+Strawberries & Crème Frappuccino Blended,grande,nonfat,473,340,56,54,0,11.42
+Strawberries & Crème Frappuccino Blended,grande,2% milk,473,250,53,51,0,10.78
+Strawberries & Crème Frappuccino Blended,grande,2% milk,473,360,56,54,0,11.42
+Strawberries & Crème Frappuccino Blended,grande,whole,473,260,53,51,0,10.78
+Strawberries & Crème Frappuccino Blended,grande,whole,473,370,56,54,0,11.42
+Strawberries & Crème Frappuccino Blended,grande,soy,473,240,51,49,0,10.36
+Strawberries & Crème Frappuccino Blended,grande,soy,473,350,54,51,0,10.78
+Strawberries & Crème Frappuccino Blended,grande,coconut,473,230,51,49,0,10.36
+Strawberries & Crème Frappuccino Blended,grande,coconut,473,340,54,53,0,11.21
+Strawberries & Crème Frappuccino Blended,venti,nonfat,709,300,70,68,0,9.59
+Strawberries & Crème Frappuccino Blended,venti,nonfat,709,420,73,70,0,9.87
+Strawberries & Crème Frappuccino Blended,venti,2% milk,709,330,69,68,0,9.59
+Strawberries & Crème Frappuccino Blended,venti,2% milk,709,450,73,70,0,9.87
+Strawberries & Crème Frappuccino Blended,venti,whole,709,350,69,68,0,9.59
+Strawberries & Crème Frappuccino Blended,venti,whole,709,460,73,70,0,9.87
+Strawberries & Crème Frappuccino Blended,venti,soy,709,310,67,63,0,8.89
+Strawberries & Crème Frappuccino Blended,venti,soy,709,430,70,66,0,9.31
+Strawberries & Crème Frappuccino Blended,venti,coconut,709,300,67,65,0,9.17
+Strawberries & Crème Frappuccino Blended,venti,coconut,709,420,70,68,0,9.59
+Vanilla Bean Crème Frappuccino Blended,tall,nonfat,354,170,39,38,0,10.73
+Vanilla Bean Crème Frappuccino Blended,tall,nonfat,354,250,41,40,0,11.3
+Vanilla Bean Crème Frappuccino Blended,tall,2% milk,354,190,39,38,0,10.73
+Vanilla Bean Crème Frappuccino Blended,tall,2% milk,354,270,41,39,0,11.02
+Vanilla Bean Crème Frappuccino Blended,tall,whole,354,200,39,38,0,10.73
+Vanilla Bean Crème Frappuccino Blended,tall,whole,354,280,41,39,0,11.02
+Vanilla Bean Crème Frappuccino Blended,tall,soy,354,180,37,35,0,9.89
+Vanilla Bean Crème Frappuccino Blended,tall,soy,354,260,39,37,0,10.45
+Vanilla Bean Crème Frappuccino Blended,tall,coconut,354,170,37,36,0,10.17
+Vanilla Bean Crème Frappuccino Blended,tall,coconut,354,250,39,38,0,10.73
+Vanilla Bean Crème Frappuccino Blended,grande,nonfat,473,240,56,55,0,11.63
+Vanilla Bean Crème Frappuccino Blended,grande,nonfat,473,360,60,57,0,12.05
+Vanilla Bean Crème Frappuccino Blended,grande,2% milk,473,270,56,55,0,11.63
+Vanilla Bean Crème Frappuccino Blended,grande,2% milk,473,380,59,57,0,12.05
+Vanilla Bean Crème Frappuccino Blended,grande,whole,473,280,56,55,0,11.63
+Vanilla Bean Crème Frappuccino Blended,grande,whole,473,400,59,57,0,12.05
+Vanilla Bean Crème Frappuccino Blended,grande,soy,473,250,54,51,0,10.78
+Vanilla Bean Crème Frappuccino Blended,grande,soy,473,370,57,54,0,11.42
+Vanilla Bean Crème Frappuccino Blended,grande,coconut,473,240,54,52,0,10.99
+Vanilla Bean Crème Frappuccino Blended,grande,coconut,473,360,57,56,0,11.84
+Vanilla Bean Crème Frappuccino Blended,venti,nonfat,709,320,73,71,0,10.01
+Vanilla Bean Crème Frappuccino Blended,venti,nonfat,709,430,76,73,0,10.3
+Vanilla Bean Crème Frappuccino Blended,venti,2% milk,709,350,73,71,0,10.01
+Vanilla Bean Crème Frappuccino Blended,venti,2% milk,709,460,76,73,0,10.3
+Vanilla Bean Crème Frappuccino Blended,venti,whole,709,370,73,71,0,10.01
+Vanilla Bean Crème Frappuccino Blended,venti,whole,709,490,76,73,0,10.3
+Vanilla Bean Crème Frappuccino Blended,venti,soy,709,330,69,66,0,9.31
+Vanilla Bean Crème Frappuccino Blended,venti,soy,709,440,73,68,0,9.59
+Vanilla Bean Crème Frappuccino Blended,venti,coconut,709,310,69,67,0,9.45
+Vanilla Bean Crème Frappuccino Blended,venti,coconut,709,430,73,70,0,9.87
+Caramel Apple Spice,short,none,236,140,35,33,0,13.98
+Caramel Apple Spice,short,none,236,210,40,37,0,15.68
+Caramel Apple Spice,tall,none,354,210,53,49,0,13.84
+Caramel Apple Spice,tall,none,354,300,59,55,0,15.54
+Caramel Apple Spice,grande,none,473,280,70,65,0,13.74
+Caramel Apple Spice,grande,none,473,380,76,71,0,15.01
+Caramel Apple Spice,venti,none,591,360,89,83,0,14.04
+Caramel Apple Spice,venti,none,591,450,95,88,0,14.89
+Hot Chocolate,short,nonfat,236,140,26,23,15,9.75
+Hot Chocolate,short,nonfat,236,200,29,24,15,10.17
+Hot Chocolate,short,2% milk,236,170,26,22,15,9.32
+Hot Chocolate,short,2% milk,236,230,28,24,15,10.17
+Hot Chocolate,short,whole,236,190,26,22,15,9.32
+Hot Chocolate,short,whole,236,250,28,24,15,10.17
+Hot Chocolate,short,soy,236,150,23,18,15,7.63
+Hot Chocolate,short,soy,236,210,25,20,15,8.47
+Hot Chocolate,short,coconut,236,140,23,20,15,8.47
+Hot Chocolate,short,coconut,236,200,26,22,15,9.32
+Hot Chocolate,tall,nonfat,354,210,37,32,20,9.04
+Hot Chocolate,tall,nonfat,354,280,40,34,20,9.6
+Hot Chocolate,tall,2% milk,354,250,37,32,20,9.04
+Hot Chocolate,tall,2% milk,354,320,39,34,20,9.6
+Hot Chocolate,tall,whole,354,280,37,32,20,9.04
+Hot Chocolate,tall,whole,354,350,39,34,20,9.6
+Hot Chocolate,tall,soy,354,220,32,25,20,7.06
+Hot Chocolate,tall,soy,354,290,35,28,20,7.91
+Hot Chocolate,tall,coconut,354,210,33,28,20,7.91
+Hot Chocolate,tall,coconut,354,280,36,31,20,8.76
+Hot Chocolate,grande,nonfat,473,270,47,41,25,8.67
+Hot Chocolate,grande,nonfat,473,350,51,43,25,9.09
+Hot Chocolate,grande,2% milk,473,320,47,41,25,8.67
+Hot Chocolate,grande,2% milk,473,400,50,43,25,9.09
+Hot Chocolate,grande,whole,473,360,47,41,25,8.67
+Hot Chocolate,grande,whole,473,440,50,43,25,9.09
+Hot Chocolate,grande,soy,473,280,41,32,25,6.77
+Hot Chocolate,grande,soy,473,360,44,35,25,7.4
+Hot Chocolate,grande,coconut,473,270,42,35,25,7.4
+Hot Chocolate,grande,coconut,473,350,46,38,30,8.03
+Hot Chocolate,venti,nonfat,591,350,63,55,35,9.31
+Hot Chocolate,venti,nonfat,591,430,66,58,35,9.81
+Hot Chocolate,venti,2% milk,591,420,62,55,35,9.31
+Hot Chocolate,venti,2% milk,591,500,66,57,35,9.64
+Hot Chocolate,venti,whole,591,470,62,55,35,9.31
+Hot Chocolate,venti,whole,591,550,66,57,35,9.64
+Hot Chocolate,venti,soy,591,370,55,44,35,7.45
+Hot Chocolate,venti,soy,591,450,58,46,35,7.78
+Hot Chocolate,venti,coconut,591,360,57,48,35,8.12
+Hot Chocolate,venti,coconut,591,430,60,51,35,8.63
+Lemonade,tall,none,354,80,21,21,0,5.93
+Lemonade,grande,none,473,110,29,21,0,4.44
+Lemonade,venti,none,709,150,41,41,0,5.78
+Lemonade,trenta,none,887,180,49,49,0,5.52
+Skinny Hot Chocolate,short,none,236,80,12,8,0,3.39
+Skinny Hot Chocolate,tall,none,354,130,18,13,0,3.67
+Skinny Hot Chocolate,grande,none,473,170,24,17,0,3.59
+Skinny Hot Chocolate,venti,none,591,210,30,21,0,3.55
+White Hot Chocolate,short,nonfat,236,180,31,30,0,12.71
+White Hot Chocolate,short,nonfat,236,230,32,32,0,13.56
+White Hot Chocolate,short,2% milk,236,210,30,30,0,12.71
+White Hot Chocolate,short,2% milk,236,260,32,31,0,13.14
+White Hot Chocolate,short,whole,236,220,30,30,0,12.71
+White Hot Chocolate,short,whole,236,280,32,31,0,13.14
+White Hot Chocolate,short,soy,236,190,27,26,0,11.02
+White Hot Chocolate,short,soy,236,240,29,27,0,11.44
+White Hot Chocolate,short,coconut,236,180,28,28,0,11.86
+White Hot Chocolate,short,coconut,236,230,30,29,0,12.29
+White Hot Chocolate,tall,nonfat,354,270,46,46,0,12.99
+White Hot Chocolate,tall,nonfat,354,330,48,47,0,13.28
+White Hot Chocolate,tall,2% milk,354,310,46,46,0,12.99
+White Hot Chocolate,tall,2% milk,354,370,48,47,0,13.28
+White Hot Chocolate,tall,whole,354,340,46,46,0,12.99
+White Hot Chocolate,tall,whole,354,400,48,47,0,13.28
+White Hot Chocolate,tall,soy,354,280,41,39,0,11.02
+White Hot Chocolate,tall,soy,354,340,43,40,0,11.3
+White Hot Chocolate,tall,coconut,354,270,42,42,0,11.86
+White Hot Chocolate,tall,coconut,354,330,44,43,0,12.15
+White Hot Chocolate,grande,nonfat,473,360,61,61,0,12.9
+White Hot Chocolate,grande,nonfat,473,430,63,62,0,13.11
+White Hot Chocolate,grande,2% milk,473,410,61,60,0,12.68
+White Hot Chocolate,grande,2% milk,473,480,63,62,0,13.11
+White Hot Chocolate,grande,whole,473,450,61,60,0,12.68
+White Hot Chocolate,grande,whole,473,520,63,62,0,13.11
+White Hot Chocolate,grande,soy,473,370,55,52,0,10.99
+White Hot Chocolate,grande,soy,473,440,57,53,0,11.21
+White Hot Chocolate,grande,coconut,473,360,56,55,0,11.63
+White Hot Chocolate,grande,coconut,473,430,58,57,0,12.05
+White Hot Chocolate,venti,nonfat,591,450,77,77,0,13.03
+White Hot Chocolate,venti,nonfat,591,520,79,78,0,13.2
+White Hot Chocolate,venti,2% milk,591,520,76,76,0,12.86
+White Hot Chocolate,venti,2% milk,591,590,78,78,0,13.2
+White Hot Chocolate,venti,whole,591,570,76,76,0,12.86
+White Hot Chocolate,venti,whole,591,640,78,78,0,13.2
+White Hot Chocolate,venti,soy,591,470,69,65,0,11.0
+White Hot Chocolate,venti,soy,591,540,71,67,0,11.34
+White Hot Chocolate,venti,coconut,591,450,71,69,0,11.68
+White Hot Chocolate,venti,coconut,591,520,73,71,0,12.01
